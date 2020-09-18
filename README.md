@@ -13,7 +13,7 @@ Após criação da conta, tenha certeza que a sua corretora disponibiliza a plat
 
 1. Clonar o repositório
 ```
-git clone git clone https://github.com/rbrossi/lock-n-load-client
+git clone https://github.com/rbrossi/lock-n-load-client
 ```
 2. Instale as libs
 
